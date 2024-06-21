@@ -1,2 +1,4 @@
 # Faster-PPN-plus
-Ultra-high-Resolution Images (URIs) semantic segmentation
+This work is planned for submission to IEEE Transactions on Instrumentation and Measurement (TIM).
+
+Extend version of Faster-PPN (ACM MM 21).
